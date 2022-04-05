@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ButtonSize">14sp</dimen>
+    <dimen name="DialogTextSize">14sp</dimen>
+    <dimen name="ChipSize">12sp</dimen>
+</resources>

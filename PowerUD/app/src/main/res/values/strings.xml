@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PowerUD</string>
+    <string name="paging">paging</string>
+    <string name="test_all">test all</string>
+    <string name="fast_test">fast test</string>
+    <string name="chip_1">chip1</string>
+    <string name="chip_2">chip2</string>
+    <string name="chip_3">chip3</string>
+    <string name="chip_4">chip4</string>
+    <string name="chip_5">chip5</string>
+    <string name="chip_6">chip6</string>
+    <string name="chip_7">chip7</string>
+    <string name="chip_8">chip8</string>
+    <string name="chip_9">chip9</string>
+    <string name="chip_10">chip10</string>
+    <string name="chip_11">chip11</string>
+    <string name="chip_12">chip12</string>
+    <string name="chip_13">chip13</string>
+    <string name="chip_14">chip14</string>
+    <string name="chip_15">chip15</string>
+    <string name="chip_16">chip16</string>
+    <string name="chip_17">chip17</string>
+    <string name="chip_18">chip18</string>
+    <string name="chip_19">chip19</string>
+    <string name="chip_20">chip20</string>
+    <string name="chip_21">chip21</string>
+    <string name="chip_22">chip22</string>
+    <string name="chip_23">chip23</string>
+    <string name="chip_24">chip24</string>
+    <string name="chip_25">chip25</string>
+    <string name="chip_26">chip26</string>
+    <string name="chip_27">chip27</string>
+    <string name="chip_28">chip28</string>
+    <string name="chip_29">chip29</string>
+    <string name="chip_30">chip30</string>
+    <string name="chip_31">chip31</string>
+</resources>
